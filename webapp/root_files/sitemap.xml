@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.indiegamegeeks.com/</loc>
+		<lastmod>2023-07-30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.indiegamegeeks.com/home</loc>
+		<lastmod>2023-07-30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.indiegamegeeks.com/about</loc>
+		<lastmod>2023-07-30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.indiegamegeeks.com/terms</loc>
+		<lastmod>2023-07-30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.indiegamegeeks.com/privacy</loc>
+		<lastmod>2023-07-30</lastmod>
+	</url>
+</urlset>
