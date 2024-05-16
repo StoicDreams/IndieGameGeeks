@@ -1,6 +1,6 @@
 # Indie Game Geeks
 
-[WebUI Version: 0.8.6](https://github.com/StoicDreams/RustWebUI)
+[WebUI Version: 0.8.8](https://github.com/StoicDreams/RustWebUI)
 
 Need to flesh out a concept for this website.
 
