@@ -1,8 +1,14 @@
 [
   {
-    "name": "Updates",
-    "icon": "pencil|shade:tri",
-    "url": "/06e8eab2-f5d9-4031-aca5-804f7fdd63e0",
+    "name": "LocalHost",
+    "icon": "emoji-desktop_computer",
+    "url": "/ac85bdfa-a20f-4a90-b6b7-2de73f5e92c8",
+    "children": null
+  },
+  {
+    "name": "Tests",
+    "icon": "emoji-balance_scale",
+    "url": "/a5615237-e00a-423c-be84-6efec19a6eee",
     "children": null
   }
 ]
