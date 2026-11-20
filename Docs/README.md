@@ -1,6 +1,6 @@
 # Indie Game Geeks
 
-[Version: 0.1.30](https://github.com/StoicDreams/IndieGameGeeks)
+[Version: 0.1.31](https://github.com/StoicDreams/IndieGameGeeks)
 
 [WebUI](https://github.com/StoicDreams/WebUI)
 
